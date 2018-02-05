@@ -46,8 +46,6 @@ public class Solution_001 {
         return null;
     }
 
-
-
     public static void main(String[] args) {
         Solution_001 solution = new Solution_001();
         int nums[] = new int[] {2, 7, 11, 15};
